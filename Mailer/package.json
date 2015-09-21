@@ -1,0 +1,15 @@
+{
+  "name": "Mailer",
+  "version": "0.0.1",
+  "description": "nodejs-nodemailer",
+  "keywords": [
+    "email"
+  ],
+  "author": "Mq ",
+  "dependencies": {
+    "nodemailer": "^1.2.1",
+    "iconv-lite":"*",
+    "bufferhelper":"*",
+    "urlencode":"*"
+  }
+}
